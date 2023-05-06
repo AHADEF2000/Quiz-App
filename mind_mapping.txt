@@ -1,0 +1,20 @@
+01 - Create JSON object For Questions
+02 - Create HTML Markup
+03 - Add Dummy Data
+04 - Start the Styling
+05 - Fetch Number Of Questions From JSON object
+06 - Show Questions Count + Questions Category
+07 - Show the Number of Bullets Depend on Questions Count
+08 - Set the Number For the Right and Wrong Answers
+09 - Create Countdown Timer
+10 - Fetch the Questions From the JSON object
+11 - Show First Question
+12 - Check the Answer and Hide the Question then Show the Next One
+13 - If the Time Ends Mark the Question as Wrong and Show Next Question
+14 - Add Class on Bullet After Answering each Question
+15 - If Questions Finished Show the Result
+
+Ideas
+- Many JSON objects and Choose Language
+- Add Many Questions and Choose Only 10 Randomly
+- Randomize the Answers
